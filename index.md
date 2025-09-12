@@ -1,4 +1,6 @@
 ## Introduction
 Hello world
-$$ \mathbf R_{\rm AC/E} =  \exp (\mathbf I \times \theta \mathbf e) $$
+
+$$ R_{21} = \exp(\theta S) $$
+
 ![Gyroscope](gyroscope.png)
