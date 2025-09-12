@@ -1,6 +1,6 @@
 ## Introduction
 Hello world
 
-$$ R_{21} = \exp(\theta S) $$
+$$ \mathbf R_{21} = \exp(\theta S) $$
 
 ![Gyroscope](gyroscope.png)
